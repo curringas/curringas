@@ -14,7 +14,7 @@ React Native + Expo · TypeScript · Supabase (PostgreSQL, PostGIS, Edge Functio
 
 ## Otros proyectos
 
-El código de estos proyectos es privado. Los he diseñado y desarrollado en solitario.
+A lo largo de mi trayectoria he desarrollado y formado parte de muchos proyectos. Estos son algunos que he construido de principio a fin por mi cuenta, fuera de las empresas en las que he trabajado. Su código es privado.
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
