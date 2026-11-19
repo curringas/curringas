@@ -26,11 +26,11 @@ El código de estos proyectos es privado. Los he diseñado y desarrollado en sol
 
 ## Stack
 
-**Backend:** PHP, Laravel, APIs REST, MySQL, PostgreSQL, Supabase, Strapi
-**Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap
-**Móvil:** React Native, Expo, Firebase
-**CMS y ecommerce:** PrestaShop, WordPress, Shopify
-**IA en el desarrollo:** Claude Code, Spec Driven Development, testing con IA
+- **Backend:** PHP, Laravel, APIs REST, MySQL, PostgreSQL, Supabase, Strapi
+- **Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap
+- **Móvil:** React Native, Expo, Firebase
+- **CMS y ecommerce:** PrestaShop, WordPress, Shopify
+- **IA en el desarrollo:** Claude Code, Spec Driven Development, testing con IA
 
 ## Contacto
 
