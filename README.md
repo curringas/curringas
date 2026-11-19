@@ -8,7 +8,7 @@ Desde 2025 trabajo como programador y jefe de proyectos de plataformas SaaS y de
 
 **[MotoCiudad](https://github.com/curringas/motociudad)** · [motociudad.com](https://motociudad.com) · [Google Play](https://play.google.com/store/apps/details?id=com.motociudad.app)
 
-App para iOS, Android y web para encontrar, proponer y verificar parkings de moto, con una comunidad gamificada. Verificación in situ con GPS y foto, panel de administración y moderación de comentarios con IA. Proyecto final del máster AI4Devs, desarrollado con asistentes de IA y Spec Driven Development.
+App para iOS, Android y web para encontrar, proponer y verificar parkings de moto, con una comunidad gamificada. Verificación in situ con GPS y foto, IA para comprobar la veracidad de las propuestas y moderar los comentarios, y panel de administración. Proyecto final del máster AI4Devs, desarrollado con agentes de IA, skills propias, servidores MCP, hooks, TDD y Spec Driven Development.
 
 React Native + Expo · TypeScript · Supabase (PostgreSQL, PostGIS, Edge Functions) · Vitest, Playwright, Maestro, pgTAP · GitHub Actions + EAS
 
@@ -26,11 +26,12 @@ El código de estos proyectos es privado. Los he diseñado y desarrollado en sol
 
 ## Stack
 
-- **Backend:** PHP, Laravel, APIs REST, MySQL, PostgreSQL, Supabase, Strapi
+- **Backend:** PHP, Laravel, APIs REST y contratos de API (OpenAPI), MySQL, PostgreSQL, Supabase, Strapi
 - **Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap
 - **Móvil:** React Native, Expo, Firebase
 - **CMS y ecommerce:** PrestaShop, WordPress, Shopify
-- **IA en el desarrollo:** asistentes de código y agentes de IA, Spec Driven Development, testing con IA
+- **IA en el desarrollo:** agentes y asistentes de código, skills propias, servidores MCP, hooks, testing con IA
+- **Metodología:** TDD, Spec Driven Development (SDD)
 
 ## Contacto
 
