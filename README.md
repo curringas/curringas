@@ -32,6 +32,7 @@ El código de estos proyectos es privado. Los he diseñado y desarrollado en sol
 - **CMS y ecommerce:** PrestaShop, WordPress, Shopify
 - **IA en el desarrollo:** agentes y asistentes de código, skills propias, servidores MCP, hooks, testing con IA
 - **Metodología:** TDD, Spec Driven Development (SDD)
+- **CI/CD:** GitHub Actions, EAS
 
 ## Contacto
 
